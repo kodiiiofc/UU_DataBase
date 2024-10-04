@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">База данных</string>
+    <string name="btn_start">Начать работу</string>
+    <string name="menu_exit">Выйти</string>
+    <string name="et_name">Введите имя сотрудника</string>
+    <string name="tv_occupation">Выбрите должность</string>
+    <string name="et_phone">Введите номер телефона</string>
+    <string name="btn_save">Сохранить данные </string>
+    <string name="btn_get_data">Получить данные</string>
+    <string name="btn_remove_data">Удалить данные</string>
+    <string name="tv_database_output">Поле вывода данных</string>
+</resources>
